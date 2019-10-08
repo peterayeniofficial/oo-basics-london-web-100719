@@ -12,6 +12,6 @@ class Shoe
   end
   
   def cobble
-    puts ""
+    puts "says that the shoe has been repaired"
   end
 end
